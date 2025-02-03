@@ -20,5 +20,7 @@ puts "\n"
 puts lista.length
 puts "\n"
 lista_organizada = lista.sort # Organizar ordem alfabética
-puts "\n"
 puts lista_organizada
+puts "\n"
+
+puts "\n"
